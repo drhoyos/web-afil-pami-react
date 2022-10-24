@@ -1,0 +1,512 @@
+{
+    "header": [{
+        "D_CSS_ESPECIFICO": null,
+        "D_MENU": "INSTITUCIONAL",
+        "D_TARGET": "_self",
+        "D_URL_DESTINO": "#",
+        "M_DESTINO_INTERNO_WEB": "S",
+        "hijos": [{
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "\u00bfQu\u00e9 es PAMI?",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "#",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": [{
+                "D_CSS_ESPECIFICO": null,
+                "D_MENU": "Historia",
+                "D_TARGET": "_self",
+                "D_URL_DESTINO": "historia",
+                "M_DESTINO_INTERNO_WEB": "S",
+                "hijos": []
+            }, {
+                "D_CSS_ESPECIFICO": null,
+                "D_MENU": "Autoridades",
+                "D_TARGET": "_self",
+                "D_URL_DESTINO": "autoridades",
+                "M_DESTINO_INTERNO_WEB": "S",
+                "hijos": []
+            }]
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Bolet\u00edn del Instituto",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "boletin-oficial",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Transparencia Activa",
+            "D_TARGET": "_blank",
+            "D_URL_DESTINO": "http:\/\/transparenciaactiva.pami.org.ar",
+            "M_DESTINO_INTERNO_WEB": "N",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Oficios judiciales",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "#",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": [{
+                "D_CSS_ESPECIFICO": null,
+                "D_MENU": "PyNE - Provincia de Buenos Aires",
+                "D_TARGET": "_blank",
+                "D_URL_DESTINO": "https:\/\/www.scba.gov.ar\/paginas.asp?id=41927",
+                "M_DESTINO_INTERNO_WEB": "N",
+                "hijos": []
+            }, {
+                "D_CSS_ESPECIFICO": null,
+                "D_MENU": "Sistema DEOX",
+                "D_TARGET": "_blank",
+                "D_URL_DESTINO": "https:\/\/servicios.csjn.gov.ar/formularios/deox.html",
+                "M_DESTINO_INTERNO_WEB": "N",
+                "hijos": []
+            }]
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Novedades",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "novedades",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }]
+    }, {
+        "D_CSS_ESPECIFICO": null,
+        "D_MENU": "SERVICIOS",
+        "D_TARGET": "_self",
+        "D_URL_DESTINO": "#",
+        "M_DESTINO_INTERNO_WEB": "S",
+        "hijos": [{
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Medicamentos Gratis",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "medicamentos",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Tr\u00e1mites Web",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "tramites",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Turno para Agencia",
+            "D_TARGET": "_blank",
+            "D_URL_DESTINO": "https:\/\/turnos.pami.org.ar\/",
+            "M_DESTINO_INTERNO_WEB": "N",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Quiero Afiliarme",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "conocepami",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Reclamos",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "reclamos",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Estado de Tr\u00e1mite",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "tramites\/consultar",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Consultas y Servicios Web",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "#",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": [{
+                "D_CSS_ESPECIFICO": null,
+                "D_MENU": "Cartilla M\u00e9dica",
+                "D_TARGET": "_self",
+                "D_URL_DESTINO": "mi-cartilla",
+                "M_DESTINO_INTERNO_WEB": "S",
+                "hijos": []
+            }, {
+                "D_CSS_ESPECIFICO": null,
+                "D_MENU": "Encontr\u00e1 a tu M\u00e9dica\/o de Cabecera",
+                "D_TARGET": "_self",
+                "D_URL_DESTINO": "listado-mdc",
+                "M_DESTINO_INTERNO_WEB": "S",
+                "hijos": []
+            }, {
+                "D_CSS_ESPECIFICO": null,
+                "D_MENU": "Credencial Provisoria",
+                "D_TARGET": "_self",
+                "D_URL_DESTINO": "credencial-provisoria",
+                "M_DESTINO_INTERNO_WEB": "S",
+                "hijos": []
+            }, {
+                "D_CSS_ESPECIFICO": null,
+                "D_MENU": "Credencial PAMI",
+                "D_TARGET": "_self",
+                "D_URL_DESTINO": "credencial",
+                "M_DESTINO_INTERNO_WEB": "S",
+                "hijos": []
+            }, {
+                "D_CSS_ESPECIFICO": null,
+                "D_MENU": "Mi PAMI",
+                "D_TARGET": "_self",
+                "D_URL_DESTINO": "mi-pami",
+                "M_DESTINO_INTERNO_WEB": "S",
+                "hijos": []
+            }, {
+                "D_CSS_ESPECIFICO": null,
+                "D_MENU": "Buscador de Farmacias",
+                "D_TARGET": "_self",
+                "D_URL_DESTINO": "farmacias",
+                "M_DESTINO_INTERNO_WEB": "S",
+                "hijos": []
+            }, {
+                "D_CSS_ESPECIFICO": null,
+                "D_MENU": "Buscador de \u00d3pticas",
+                "D_TARGET": "_self",
+                "D_URL_DESTINO": "opticas",
+                "M_DESTINO_INTERNO_WEB": "S",
+                "hijos": []
+            }, {
+                "D_CSS_ESPECIFICO": null,
+                "D_MENU": "Estado de Expediente",
+                "D_TARGET": "_self",
+                "D_URL_DESTINO": "estado-expediente",
+                "M_DESTINO_INTERNO_WEB": "S",
+                "hijos": []
+            }, {
+                "D_CSS_ESPECIFICO": null,
+                "D_MENU": "Validador de Receta Manual",
+                "D_TARGET": "_self",
+                "D_URL_DESTINO": "validador-receta-manual",
+                "M_DESTINO_INTERNO_WEB": "S",
+                "hijos": []
+            }, {
+                "D_CSS_ESPECIFICO": null,
+                "D_MENU": "Constancia de Afiliaci\u00f3n Negativa",
+                "D_TARGET": "_self",
+                "D_URL_DESTINO": "constancia-afiliacion-negativa",
+                "M_DESTINO_INTERNO_WEB": "S",
+                "hijos": []
+            }]
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Hospitales Propios",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "hospitales-propios",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Veteranos de Guerra",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "veteranos",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Actividades y Programas Preventivos",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "servicios\/actividades-preventivas",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }]
+    }, {
+        "D_CSS_ESPECIFICO": null,
+        "D_MENU": "CONTACTO",
+        "D_TARGET": "_self",
+        "D_URL_DESTINO": "#",
+        "M_DESTINO_INTERNO_WEB": "S",
+        "hijos": [{
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Emergencias",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "emergencias",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Reclamos",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "reclamos",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "UGL y Agencias",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "agencias-ugls",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "PAMI Escucha",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "pami-escucha",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Traslados Programados",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "traslados-programados",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Preguntas Frecuentes",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "preguntas-frecuentes",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }]
+    }],
+    "footer": [{
+        "D_CSS_ESPECIFICO": null,
+        "D_MENU": "INSTITUCIONAL",
+        "D_TARGET": "_self",
+        "D_URL_DESTINO": "#",
+        "M_DESTINO_INTERNO_WEB": "S",
+        "hijos": [{
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "\u00bfQu\u00e9 es PAMI?",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "historia",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Bolet\u00edn del Instituto",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "boletin-oficial",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Transparencia Activa",
+            "D_TARGET": "_blank",
+            "D_URL_DESTINO": "http:\/\/transparenciaactiva.pami.org.ar",
+            "M_DESTINO_INTERNO_WEB": "N",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Novedades",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "novedades",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }]
+    }, {
+        "D_CSS_ESPECIFICO": null,
+        "D_MENU": "SERVICIOS",
+        "D_TARGET": "_self",
+        "D_URL_DESTINO": "#",
+        "M_DESTINO_INTERNO_WEB": "S",
+        "hijos": [{
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Medicamentos Gratis",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "medicamentos",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Tr\u00e1mites Web",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "tramites",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Turno para Agencia",
+            "D_TARGET": "_blank",
+            "D_URL_DESTINO": "https://turnos.pami.org.ar/",
+            "M_DESTINO_INTERNO_WEB": "N",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Quiero Afiliarme",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "conocepami",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Reclamos",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "reclamos",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Estado de Tr\u00e1mite",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "tramites\/consultar",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Cartilla Médica",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "mi-cartilla",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Encontrá a tu Médica/o de Cabecera",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "listado-mdc",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Credencial Provisoria",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "credencial-provisoria",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Credencial PAMI",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "credencial",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Mi PAMI",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "mi-pami",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Buscador de Farmacias",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "farmacias",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Buscador de Ópticas",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "opticas",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Estado de Expediente",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "estado-expediente",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Validador de Receta Manual",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "validador-receta-manual",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Constancia de Afiliación Negativa",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "constancia-afiliacion-negativa",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Hospitales Propios",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "hospitales-propios",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Veteranos de Guerra",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "veteranos",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Actividades y Programas Preventivos",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "servicios\/actividades-preventivas",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }]
+    }, {
+        "D_CSS_ESPECIFICO": null,
+        "D_MENU": "CONTACTO",
+        "D_TARGET": "_self",
+        "D_URL_DESTINO": "#",
+        "M_DESTINO_INTERNO_WEB": "S",
+        "hijos": [{
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Reclamos",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "reclamos",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "UGL y Agencias",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "agencias-ugls",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "PAMI Escucha",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "pami-escucha",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Traslados Programados",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "traslados-programados",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }, {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "Preguntas Frecuentes",
+            "D_TARGET": "_self",
+            "D_URL_DESTINO": "preguntas-frecuentes",
+            "M_DESTINO_INTERNO_WEB": "S",
+            "hijos": []
+        }]
+    }],
+    "footerbtn": [{
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "COMPRAS COVID-19",
+            "D_TARGET": "_blank",
+            "D_URL_DESTINO": "https://prestadores.pami.org.ar/result.php?c=compras-covid-19",
+            "M_DESTINO_INTERNO_WEB": "N",
+            "hijos": []
+        },
+        {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "DONACIONES COVID-19",
+            "D_TARGET": "_blank",
+            "D_URL_DESTINO": "https://prestadores.pami.org.ar/donaciones.php",
+            "M_DESTINO_INTERNO_WEB": "N",
+            "hijos": []
+        },
+        {
+            "D_CSS_ESPECIFICO": null,
+            "D_MENU": "PRESTADORES Y PROVEEDORES",
+            "D_TARGET": "_blank",
+            "D_URL_DESTINO": "https://prestadores.pami.org.ar/",
+            "M_DESTINO_INTERNO_WEB": "N",
+            "hijos": []
+        }
+    ]
+}
